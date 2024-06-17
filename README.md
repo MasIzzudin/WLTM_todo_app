@@ -2,8 +2,6 @@
 
 WLTM Todo App
 
-## Getting Started
-
 ## How to install
 
 1. ketik flutter pub get lewat terminal
